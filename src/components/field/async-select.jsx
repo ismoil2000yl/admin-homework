@@ -61,11 +61,6 @@
 // export default index
 
 
-
-//  yangi code
-
-
-import { useGet } from "Crud";
 import { get } from "lodash";
 import React from "react";
 import { AsyncPaginate } from "react-select-async-paginate";

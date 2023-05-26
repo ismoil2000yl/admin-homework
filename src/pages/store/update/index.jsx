@@ -79,7 +79,6 @@ const index = () => {
                                         },
                                         {
                                             name: 'products',
-                                            value: [],
                                             type: "array",
                                             value: get(item1, "products", []),
                                             required: true
